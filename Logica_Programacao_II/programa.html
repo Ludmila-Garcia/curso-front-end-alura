@@ -1,0 +1,25 @@
+<canvas width="600" height="400"> </canvas>
+
+<script>
+
+    //Módulo Lógica de Programação II:
+    // Neste treinamento é ensinado como utilizar um pouco da API de gráficos do JavaScript para desenhar na tela.
+
+
+    //Para desenhar eu preciso de uma tela e um pincel
+    // A tag <canvas></canvas> é uma área da tela que posso desenhar com o pincel ou escrever dentro dessa área.
+    // A tag <canvas> precisa ter uma largrura(width) e altura(height)
+
+        var tela = document.querySelector('canvas');//pode usar aspas duplas ou aspas simples
+        var pincel = tela.getContext('2d');
+
+
+        //cordenadas X e Y = São os dois valores 0 e 0. Isso posiciona o pincel bem no ponto 0 de x e y da tela canvas
+        // 600 é a largura e 400 é a altura da tela(canvas) onde poderá ser desenhado com o pincel
+        pincel.fillStyle = 'lightgrey';
+        pincel.fillRect(0, 0, 600, 400);
+       
+
+
+</script>
+
