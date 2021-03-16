@@ -11,10 +11,27 @@
 
     function calculaImc(altura, peso) {
 
-        var imc = peso / (altura * altura);
-        return imc;
+        return peso / (altura * altura);
     }
 
     var imcCalculado = calculaImc(1.77, 75);
+
+    var imcFlavio = calculaImc(1.71, 73);
+    var imcAmigo = calculaImc(1.72, 68);
+
     mostra("O meu IMC é : " + imcCalculado);
+
+    var totalImc = imcFlavio + imcAmigo;
+    // POSSO SIMPLIFICAR FAZENDO DA SEGUINTE FORMA:
+    //var totalImc = calculaImc(1.71, 73) + calculaImc(1.72, 68);
+
+
+
+    document.write("A soma dos imc's é: " + totalImc);
+
+//OBS : mais uma forma de utilizar o retorno da variável de função.
+//    mostra("O meu IMC é " + calculaImc(1.63, 48));
+   
 </script>
+
+Entendendo a fundo retorno de funções
