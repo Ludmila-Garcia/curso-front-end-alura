@@ -1,0 +1,38 @@
+<meta charset="UTF-8">
+
+<script>
+
+    function pulaLinha(){
+        document.write("<br>");
+        document.write("<br>");
+    }
+
+    function mostra(frase){
+        document.write(frase);
+        pulaLinha();
+    }
+
+    document.write("REPETIÇÃO UTILIZANDO WHILE");
+    pulaLinha();
+    // UTILIZANDO O WHILE
+    var i = 0;
+
+    while(i < 10){
+        alert("O resultafdo é " + (2 * i));
+        i++;
+    }
+
+    document.write("REPETIÇÃO UTILIZANDO FOR");
+    pulaLinha();
+    // UTILIZANDO O FOR
+    for( var i = 0; i < 10; i++ ) {
+    alert( "O resultado é " + (2 * i) );
+}
+    
+
+//Tanto o while() quanto o for() são utilizados em estruturas criadas para repetir instruções, 
+//ou seja, estruturas de loops. A escolha entre um e outro é questão de gosto e legibilidade. 
+
+
+
+</script>
