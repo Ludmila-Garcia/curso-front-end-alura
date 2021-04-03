@@ -1,0 +1,29 @@
+<script>
+
+    // AULA: INTERAGINDO COM O USUÁRIO
+
+    function pulaLinha (){
+        document.write("<br>");
+    }
+
+    function mostra (frase) {
+        document.write(frase);
+        pulaLinha();
+    }
+
+    // Esse for criará 3 linhas
+    for(var linha = 1; linha <= 3; linha++){
+
+        // Esse for criará 10 colunas
+        for(coluna = 1; coluna <= 10; coluna++) {
+            document.write("*");
+        }
+        pulaLinha();
+      
+    }
+    
+    
+    
+
+</script>
+
