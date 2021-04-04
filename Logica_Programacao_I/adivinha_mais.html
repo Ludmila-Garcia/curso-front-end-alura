@@ -5,10 +5,12 @@
 
 <script>
     
-    var segredo = 5;
+    var segredo = Math.round(Math.random() *10);
 
     // Com querySelector dá pra capturar os elementos do mundo HTML 
     var input = document.querySelector("input");
+    // Sempre que carregar a página o foco estará no campo input
+    input.focus();
 
     // Verificando se o valor digitado no input é igual ao valor da variável segredo
     function verifica() {
@@ -18,7 +20,14 @@
         } else {
             alert("Você ERROU!!!!!!");
         }
+
+        // Limpar o campo input após verificação
+        input.value = "";
+        // Colocar foco no campo input depois de limpá-lo
+        input.focus();
     }
+
+
 
     // Com querySelector dá pra capturar os elementos do mundo HTML 
     var button = document.querySelector("button");
