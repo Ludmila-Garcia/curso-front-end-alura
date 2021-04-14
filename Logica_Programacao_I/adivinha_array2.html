@@ -1,0 +1,99 @@
+<meta charset="UTF-8">
+
+<input/>
+<button>Compare com o meu segredo</button>
+
+<script>
+    
+    // essa função vai retornar o resultado de(Math.round(Math.random))
+    //(Math.round(Math.random)) vai gerar
+    //números aleatórios dentro do Array segredos
+    function sorteia() {
+        return Math.round(Math.random() * 10);
+    }
+
+    // Essa função recebe a quantidade de números que quero sortear
+    function sorteiaNumeros(quantidade) {
+        // essa variavel é totalmente diferente da outra variavel segredos, essa daqui pertence a somente essa função
+        var segredos = [];
+        
+        var numero = 1;
+
+        while (numero <= quantidade) {
+
+            // para não repetir os números sorteados, a variavel numeroAletório
+            // vai armazenar o resultado de sorteia()
+            var numeroAleatorio = sorteia();
+            var achou = false;
+
+            // if so vai executar caso gere um numero diferente de 0
+            if(numeroAleatorio !== 0){
+
+                //verificar se o número sorteado é igual a outro que ja foi sorteado
+                // para isso eu tenho que varrer a lista de segredos e verificar se o numero sorteado já foi sorteado antes e com isso já está dentro de segredos
+                // se o número sorteado já tiver sido sorteado antes então ele esta dentro de segredos e com isso a variavel achou vai ser TRUE e sendo verdadeiro ele não faz o push
+                for(var posicao = 0; posicao < segredos.length; posicao++) {
+                    
+                    if(segredos[posicao] == numeroAleatorio){
+                        achou = true;
+                        break;
+                    }
+                }
+
+                // só posso fazer o push se não achou o segredo dentro da minha lista
+                if(achou == false) {
+                    segredos.push(numeroAleatorio); 
+                    numero++; 
+                } 
+            }
+        }
+
+        return segredos;
+    }
+    // Array 5,7,10,2,3
+
+    //segredos vai receber da função sorteiaNumeros 5 sorteios diferentes
+    var segredos = sorteiaNumeros(3);
+    
+    //conseole serve para fazer o teste no console do navegador
+    console.log(segredos);
+
+    // Com querySelector dá pra capturar os elementos do mundo HTML 
+    var input = document.querySelector("input");
+    // Sempre que carregar a página o foco estará no campo input
+    input.focus();
+
+    // Verificando se o valor digitado no input é igual ao valor da variável segredo
+    function verifica() {
+
+        // variável para armazenar se achou ou não no input o número igual aos que estão no Array segredos.
+        var achou = false;
+
+        for(var posicao = 0; posicao < segredos.length; posicao++) {
+            if(input.value == segredos[posicao]) {
+            alert("Você ACERTOU!");
+            // Se acertou, então achou se torna verdadeiro.
+            achou = true;
+            break;
+            } 
+        }
+
+        if(achou == false) {
+            alert("Você ERROU!!!!");
+        }
+        
+
+        // Limpar o campo input após verificação
+        input.value = "";
+        // Colocar foco no campo input depois de limpá-lo
+        input.focus();
+    }
+
+
+
+    // Com querySelector dá pra capturar os elementos do mundo HTML 
+    var button = document.querySelector("button");
+
+    // Ao cilcar no botão o clique do botão vai receber a execução da funcionalidade da função "verifica"
+    button.onclick = verifica;
+</script>
