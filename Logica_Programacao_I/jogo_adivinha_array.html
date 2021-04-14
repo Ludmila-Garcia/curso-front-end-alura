@@ -1,0 +1,49 @@
+<meta charset="UTF-8">
+
+<input/>
+<button>Compare com o meu segredo</button>
+
+<script>
+    
+    // Array
+    var segredos = [5,7,10,2,3];
+
+    // Com querySelector dá pra capturar os elementos do mundo HTML 
+    var input = document.querySelector("input");
+    // Sempre que carregar a página o foco estará no campo input
+    input.focus();
+
+    // Verificando se o valor digitado no input é igual ao valor da variável segredo
+    function verifica() {
+
+        // variável para armazenar se achou ou não no input o número igual aos que estão no Array segredos.
+        var achou = false;
+
+        for(var posicao = 0; posicao < segredos.length; posicao++) {
+            if(input.value == segredos[posicao]) {
+            alert("Você ACERTOU!");
+            // Se acertou, então achou se torna verdadeiro.
+            achou = true;
+            break;
+            } 
+        }
+
+        if(achou == false) {
+            alert("Você ERROU!!!!");
+        }
+        
+
+        // Limpar o campo input após verificação
+        input.value = "";
+        // Colocar foco no campo input depois de limpá-lo
+        input.focus();
+    }
+
+
+
+    // Com querySelector dá pra capturar os elementos do mundo HTML 
+    var button = document.querySelector("button");
+
+    // Ao clcar no botão o clique do botão vai receber a execução da funcionalidade da função "verifica"
+    button.onclick = verifica;
+</script>
