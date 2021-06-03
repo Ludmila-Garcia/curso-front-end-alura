@@ -4,7 +4,7 @@ Módulo Lógica de Programação II:
 Neste treinamento é ensinado como utilizar um pouco da API de gráficos do JavaScript para desenhar na tela.
 
 
-Módulo HTML e CSS parte 1. A Primeira páginada Web.
+1 - Módulo HTML e CSS parte 1. A Primeira páginada Web.
 
 Neste módulo é feita a construção de uma site de Barbearia.
 Aprendizado:
@@ -18,7 +18,7 @@ Aprendizado:
  - Como dar ênfase para algumas informações do texto, deixando-as em itálico, utilizando a tag "em"
 O módulo foi separado em blocos incrementais, sendo facilmente entendido detalhe por detalhe.
 
-Separando o conteúdo e informações
+2 - Separando o conteúdo e informações
 
 Aprendizado:
 - Estrutura básica do HTML.
@@ -29,4 +29,4 @@ Aprendizado:
 - Como separar as informações que estão sendo passadas para o navegador, utilizando a tag head.
 - Como separar o conteúdo da página, utilizando a tag body.
 
-
+3 - 
