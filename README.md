@@ -14,8 +14,8 @@ Aprendizado:
  - Uma introdução ao HTML e às suas tags
  - Como definir o título e os parágrafos de um texto
  - Utilizando as tags <h1> e <p>, respectivamente
- - Como dar destaque para algumas informações do texto, deixando-as em negrito, utilizando a tag <strong>
- - Como dar ênfase para algumas informações do texto, deixando-as em itálico, utilizando a tag <em>
+ - Como dar destaque para algumas informações do texto, deixando-as em negrito, utilizando a tag "Strong"
+ - Como dar ênfase para algumas informações do texto, deixando-as em itálico, utilizando a tag "em"
 O módulo foi separado em blocos incrementais, sendo facilmente entendido detalhe por detalhe.
 
 
