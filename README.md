@@ -4,7 +4,7 @@ Módulo Lógica de Programação II:
 Neste treinamento é ensinado como utilizar um pouco da API de gráficos do JavaScript para desenhar na tela.
 
 
-1 - Módulo HTML e CSS parte 1. A Primeira páginada Web.
+<strong>1 - Módulo HTML e CSS parte 1. A Primeira páginada Web.</strong>
 
 Neste módulo é feita a construção de uma site de Barbearia.
 Aprendizado:
