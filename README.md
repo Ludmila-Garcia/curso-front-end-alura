@@ -31,4 +31,4 @@ Aprendizado:
 - Como separar as informações que estão sendo passadas para o navegador, utilizando a tag head.
 - Como separar o conteúdo da página, utilizando a tag body.
 
-<strong>Bloco 3 - Começando com CSS</strong>
+<strong>Bloco 3 - Trabalhando com CSS</strong>
