@@ -5,6 +5,7 @@ Neste treinamento é ensinado como utilizar um pouco da API de gráficos do Java
 
 
 Módulo HTML e CSS parte 1. A Primeira páginada Web.
+
 Neste módulo é feita a construção de uma site de Barbearia.
 Aprendizado:
  - Trabalhar com texto, imagem, blocos de conteúdo, listas de informações. 
