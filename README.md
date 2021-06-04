@@ -65,7 +65,7 @@ Aprendizado:
 - Divisões de conteúdo, utilizando a tag div.
 - Comportamentos inline e block.
 
-<strong>Bloco 6 - Finalizando a primeira página</strong>
+<strong> Bloco 6 - Finalizando a primeira página</strong>
 
 Aprendizado:
 - Conceito de cabeçalho da página e como criá-lo.
@@ -83,7 +83,7 @@ Aprendizado:
 - Revisão da base de uma página HTML.
 - Lista HTML não ordenada.
 
-<strong>Bloco 2 - Navegação entre páginas/strong>
+<strong>Bloco 2 - Navegação entre páginas</strong>
  
  Aprendizado:
  - Criar links para outras páginas, sejam elas do projeto ou páginas externas.
@@ -91,3 +91,10 @@ Aprendizado:
 - Como transformar o texto para ter todas as letras maiúsculas.
 - Como deixar o texto em negrito com CSS utilizando font-weight: bold.
 - Como remover a decoração do texto utilizando text-decoration: none.
+
+<strong>Bloco 3 - Posicionamento dos elementos</strong>
+
+Aprendizado:
+- Como remover os estilos que o navegador cria automaticamente, utilizando o arquivo reset.css.
+- Como funciona os posicionamentos static, relative e absolute dos elementos.
+- Como posicionar o cabeçalho da nossa página.
