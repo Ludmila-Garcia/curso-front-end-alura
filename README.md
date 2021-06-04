@@ -43,3 +43,4 @@ Aprendizado:
 - Como importar um arquivo externo de CSS dentro de uma página HTML.
 - Como representar cores no CSS: Através do nome da cor, através do seu hexadecimal e através do seu RGB.
 
+<strong>Bloco 4 - Estilizando imagens</strong>
