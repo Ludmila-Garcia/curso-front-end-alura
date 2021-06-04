@@ -82,3 +82,12 @@ Aprendizado:
 - Revisão do conteúdo aprendido no treinamento anterior.
 - Revisão da base de uma página HTML.
 - Lista HTML não ordenada.
+
+<strong>Bloco 2 - Navegação entre páginas/strong>
+ 
+ Aprendizado:
+ - Criar links para outras páginas, sejam elas do projeto ou páginas externas.
+- Reforço aos estilos inline e block.
+- Como transformar o texto para ter todas as letras maiúsculas.
+- Como deixar o texto em negrito com CSS utilizando font-weight: bold.
+- Como remover a decoração do texto utilizando text-decoration: none.
