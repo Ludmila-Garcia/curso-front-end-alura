@@ -57,3 +57,10 @@ Aprendizado:
 
 
 <strong>Bloco 5 - Listas e divisões de conteúdo</strong>
+
+Aprendizado:
+- Trabalhar com listas não-ordenadas e listas ordenadas.
+- Conceito das classes no CSS que servem para marcar itens que podem se repetir.
+- Como referenciar uma classe no CSS.
+- Divisões de conteúdo, utilizando a tag div.
+- Comportamentos inline e block.
