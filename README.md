@@ -32,3 +32,14 @@ Aprendizado:
 - Como separar o conteúdo da página, utilizando a tag body.
 
 <strong>Bloco 3 - Trabalhando com CSS</strong>
+
+Aprendizado:
+- Arrumar a apresentação dos textos, alinhamento (text-align), tamanho da fonte (font-size), cor de fundo (background),cor do texto (color).
+- CSS inline
+- Propriedade do CSS
+- Tag style.
+- CSS com um arquivo externo.
+- Como funciona o estilo em cascata do CSS.
+- Como importar um arquivo externo de CSS dentro de uma página HTML.
+- Como representar cores no CSS: Através do nome da cor, através do seu hexadecimal e através do seu RGB.
+
