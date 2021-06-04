@@ -8,6 +8,7 @@ Neste treinamento é ensinado como utilizar um pouco da API de gráficos do Java
 Neste módulo é feito a construção de uma site de Barbearia. O módulo foi separado em blocos incrementais, sendo facilmente entendido detalhe por detalhe.
 
 <strong>Bloco 1 - Marcação do primeiro texto.</strong>
+
 Aprendizado:
  - Trabalhar com texto, imagem, blocos de conteúdo, listas de informações. 
  - Como mudar cor, posicionar elementos, mudar espaçamento. 
@@ -20,6 +21,7 @@ Aprendizado:
 
 
 <strong>Bloco 2 - Separando o conteúdo e informações.</strong>
+
 Aprendizado:
 - Estrutura básica do HTML.
 - Com a tag DOCTYPE, defini qual versão do HTML está sendo utilizada.
@@ -30,6 +32,7 @@ Aprendizado:
 - Como separar o conteúdo da página, utilizando a tag body.
 
 <strong>Bloco 3 - Trabalhando com CSS</strong>
+
 Aprendizado:
 - Arrumar a apresentação dos textos, alinhamento (text-align), tamanho da fonte (font-size), cor de fundo (background),cor do texto (color).
 - CSS inline
