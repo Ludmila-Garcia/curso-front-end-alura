@@ -71,3 +71,5 @@ Aprendizado:
 - Conceito de cabeçalho da página e como criá-lo.
 - O cabeçalho da página deve ter mais destaque.
 - Não é recomendado criar estilos usando tags, o ideal é usarmos classes para tudo.
+
+<strong>HTML5 e CSS3 parte 2: Posicionamento, listas e navegação</strong>
