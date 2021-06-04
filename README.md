@@ -64,3 +64,5 @@ Aprendizado:
 - Como referenciar uma classe no CSS.
 - Divisões de conteúdo, utilizando a tag div.
 - Comportamentos inline e block.
+
+<strong>Bloco 6 - Finalizando a primeira página</strong>
