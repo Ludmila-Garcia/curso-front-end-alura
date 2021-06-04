@@ -73,3 +73,12 @@ Aprendizado:
 - Não é recomendado criar estilos usando tags, o ideal é usarmos classes para tudo.
 
 <strong>HTML5 e CSS3 parte 2: Posicionamento, listas e navegação</strong>
+Neste módulo é criado uma segunda página, a página dos produtos. Nessa página, é criado um cabeçalho complexo com imagem e item de menu.
+
+<strong>Bloco 1 - Criando uma nova página</strong>
+Aprendizado: 
+
+- Introdução ao projeto do treinamento.
+- Revisão do conteúdo aprendido no treinamento anterior.
+- Revisão da base de uma página HTML.
+- Lista HTML não ordenada.
