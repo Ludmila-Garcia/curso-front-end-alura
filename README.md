@@ -66,3 +66,8 @@ Aprendizado:
 - Comportamentos inline e block.
 
 <strong>Bloco 6 - Finalizando a primeira página</strong>
+
+Aprendizado:
+- Conceito de cabeçalho da página e como criá-lo.
+- O cabeçalho da página deve ter mais destaque.
+- Não é recomendado criar estilos usando tags, o ideal é usarmos classes para tudo.
