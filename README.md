@@ -54,3 +54,6 @@ Aprendizado:
 - Ajustar a largura de um elemento, através da propriedade width.
 - Ajustar o espaçamento externo de um elemento, através da propriedade margin.
 - Como se comporta um time de front-end hoje em dia.
+
+
+<strong>Bloco 5 - Listas e divisões de conteúdo</strong>
