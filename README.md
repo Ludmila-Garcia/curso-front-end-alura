@@ -44,3 +44,13 @@ Aprendizado:
 - Como representar cores no CSS: Através do nome da cor, através do seu hexadecimal e através do seu RGB.
 
 <strong>Bloco 4 - Estilizando imagens</strong>
+
+Aprendizado:
+- Trabalahndo com arquivo CSS externo.
+- Identificador para marcar especificamente um elemento.
+- Como fazer referência a um identificador (id )no CSS.
+- Adicionar uma imagem na página html.
+- Ajustar a altura de um elemento, através da propriedade height.
+- Ajustar a largura de um elemento, através da propriedade width.
+- Ajustar o espaçamento externo de um elemento, através da propriedade margin.
+- Como se comporta um time de front-end hoje em dia.
