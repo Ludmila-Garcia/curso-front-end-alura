@@ -98,3 +98,11 @@ Aprendizado:
 - Como remover os estilos que o navegador cria automaticamente, utilizando o arquivo reset.css.
 - Como funciona os posicionamentos static, relative e absolute dos elementos.
 - Como posicionar o cabeçalho da nossa página.
+
+<strong>Bloco 4 - A tag section</strong>
+ 
+ Aprendizado:
+ - A tag main, para o conteúdo principal da página
+ - Criar listas complexas, com títulos, imagens e parágrafos
+ - Como utilizar o inline-block
+ - Praticar e estilizar o conteúdo principal da página
