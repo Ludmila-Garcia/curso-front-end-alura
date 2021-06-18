@@ -106,3 +106,11 @@ Aprendizado:
  - Criar listas complexas, com títulos, imagens e parágrafos
  - Como utilizar o inline-block
  - Praticar e estilizar o conteúdo principal da página
+
+
+<strong>Bloco 5 - Lidando com Bordas</strong>
+
+Aprendizado:
+ - Aplicar bordas nos elementos com CSS.
+ - Os diferentes tipos de bordas.
+ - Como fazer borda arredondada.
