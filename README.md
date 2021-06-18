@@ -99,7 +99,7 @@ Aprendizado:
 - Como funciona os posicionamentos static, relative e absolute dos elementos.
 - Como posicionar o cabeçalho da nossa página.
 
-<strong>Bloco 4 - A tag section/strong>
+<strong>Bloco 4 - A tag section</strong>
  
  Aprendizado:
  - A tag main, para o conteúdo principal da página
