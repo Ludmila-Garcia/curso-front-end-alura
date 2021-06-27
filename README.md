@@ -123,3 +123,11 @@ Aprendizado:
  - Trabalhar com active, quando um elemento está sendo ativado/clicado pelo usuário.
  - Mudar a cor do texto e/ou da borda de um elemento, quando o usuário passar o cursor sobre o mesmo.
  - Mudar a cor da borda de um elemento, quando o mesmo estiver sendo ativado pelo usuário.
+
+<strong>Bloco 7 - Finalizando a página de Produtos</strong>
+
+Aprendizado:
+ - Tag footer, para o rodapé da nossa página
+ - Colocar uma imagem de fundo em um elemento utilizando CSS.
+ - Quando colocamos uma imagem de fundo em um elemento, o CSS, por padrão, copia e cola a imagem diversas vezes até ocupar todo o espaço do elemento
+ - Tabela Unicode.
