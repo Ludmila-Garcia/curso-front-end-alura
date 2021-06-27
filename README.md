@@ -114,3 +114,7 @@ Aprendizado:
  - Aplicar bordas nos elementos com CSS.
  - Os diferentes tipos de bordas.
  - Como fazer borda arredondada.
+
+<strong>Bloco 6 - Pseudo-classes CSS</strong>
+
+Aprendizado:
