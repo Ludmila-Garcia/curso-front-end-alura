@@ -118,3 +118,8 @@ Aprendizado:
 <strong>Bloco 6 - Pseudo-classes CSS</strong>
 
 Aprendizado:
+ - Algumas pseudo-classes CSS
+ - Trabalhar com hover, quando o usuário passa o cursor sobre o elemento.
+ - Trabalhar com active, quando um elemento está sendo ativado/clicado pelo usuário.
+ - Mudar a cor do texto e/ou da borda de um elemento, quando o usuário passar o cursor sobre o mesmo.
+ - Mudar a cor da borda de um elemento, quando o mesmo estiver sendo ativado pelo usuário.
