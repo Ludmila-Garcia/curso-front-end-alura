@@ -98,3 +98,36 @@ Aprendizado:
 - Como remover os estilos que o navegador cria automaticamente, utilizando o arquivo reset.css.
 - Como funciona os posicionamentos static, relative e absolute dos elementos.
 - Como posicionar o cabeçalho da nossa página.
+
+<strong>Bloco 4 - A tag section</strong>
+ 
+ Aprendizado:
+ - A tag main, para o conteúdo principal da página
+ - Criar listas complexas, com títulos, imagens e parágrafos
+ - Como utilizar o inline-block
+ - Praticar e estilizar o conteúdo principal da página
+
+
+<strong>Bloco 5 - Lidando com Bordas</strong>
+
+Aprendizado:
+ - Aplicar bordas nos elementos com CSS.
+ - Os diferentes tipos de bordas.
+ - Como fazer borda arredondada.
+
+<strong>Bloco 6 - Pseudo-classes CSS</strong>
+
+Aprendizado:
+ - Algumas pseudo-classes CSS
+ - Trabalhar com hover, quando o usuário passa o cursor sobre o elemento.
+ - Trabalhar com active, quando um elemento está sendo ativado/clicado pelo usuário.
+ - Mudar a cor do texto e/ou da borda de um elemento, quando o usuário passar o cursor sobre o mesmo.
+ - Mudar a cor da borda de um elemento, quando o mesmo estiver sendo ativado pelo usuário.
+
+<strong>Bloco 7 - Finalizando a página de Produtos</strong>
+
+Aprendizado:
+ - Tag footer, para o rodapé da nossa página
+ - Colocar uma imagem de fundo em um elemento utilizando CSS.
+ - Quando colocamos uma imagem de fundo em um elemento, o CSS, por padrão, copia e cola a imagem diversas vezes até ocupar todo o espaço do elemento
+ - Tabela Unicode.
